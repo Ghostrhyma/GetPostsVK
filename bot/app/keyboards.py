@@ -12,7 +12,7 @@ async def get_domains_keyboard(domains: list):
 
     for domain in domains:
         dom_keyboard.add(InlineKeyboardButton(text=domain['group_name'], 
-        callback_data=f"selectedDomain_{domain['id']}_{domain['group_name']}"))
+        callback_data=f"selectedDomain_{domain['id']}"))
     
     return dom_keyboard.adjust(1).as_markup()
     
