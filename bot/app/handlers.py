@@ -36,11 +36,13 @@ async def get_domain(message: Message, state: FSMContext):
     logging.info("Ожидаем домен от пользователя")
 
 
+answ = "Выберите группу ВК, которую хотите открепить от чата"
+
 @router.message(Command("delete_domain"))
 async def delete_domain(message: Message):
     data = await req.get_domains_for_chat(message.chat.id, message.message_thread_id)
     if not isinstance(data, bool):
-        await message.answer(str("Выберите группу ВК, которую хотите открепить от чата"), 
+        await message.answer(answ, 
                              reply_markup=await kb.get_domains_keyboard(data))
         logging.info("Ожидаем домен от пользователя для удаления")
     else:
