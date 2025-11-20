@@ -4,12 +4,19 @@ from sqlalchemy.ext.asyncio import AsyncAttrs, async_sessionmaker, create_async_
 from sqlalchemy import BigInteger, DateTime, ForeignKey, String, Text, func
 from typing import List, Optional
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
 ssl_ctx = ssl.create_default_context()
 ssl_ctx.check_hostname = True
 ssl_ctx.verify_mode = ssl.CERT_REQUIRED
 
+DATABASE_URL = os.getenv("DATABASE_URL")
+
 engine = create_async_engine(
-    url="postgresql+asyncpg://neondb_owner:npg_2a9qMEPsGfcg@ep-lucky-fire-ag1t1smy-pooler.c-2.eu-central-1.aws.neon.tech/neondb",
+    url=DATABASE_URL,
     connect_args={"ssl": ssl_ctx})
 
 
