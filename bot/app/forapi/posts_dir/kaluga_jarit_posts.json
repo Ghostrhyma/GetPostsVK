@@ -1,0 +1,180 @@
+[
+    {
+        "inner_type": "wall_wallpost",
+        "donut": {
+            "is_donut": false
+        },
+        "is_pinned": 1,
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "marked_as_ads": 0,
+        "hash": "CX_pBgvDH_bPy7elrg",
+        "type": "post",
+        "push_subscription": {
+            "is_subscribed": false
+        },
+        "carousel_offset": 0,
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1747621954,
+                    "id": 457240866,
+                    "owner_id": -211262018,
+                    "access_key": "32b61d7b5d08fcd3e8",
+                    "sizes": [
+                        {
+                            "height": 108,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 240,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 960,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 1621,
+                            "type": "y",
+                            "width": 1080,
+                            "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu&cs=1080x0"
+                        },
+                        {
+                            "height": 1921,
+                            "type": "z",
+                            "width": 1280,
+                            "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu&cs=1280x0"
+                        },
+                        {
+                            "height": 2560,
+                            "type": "w",
+                            "width": 1706,
+                            "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu&cs=1706x0"
+                        },
+                        {
+                            "height": 162,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 360,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 540,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 810,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 2560,
+                            "type": "base",
+                            "width": 1706,
+                            "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100,
+                    "web_view_token": "446acaa6b04b71f9f9",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 2560,
+                        "type": "base",
+                        "url": "https://sun9-34.userapi.com/s/v1/ig2/Yt7QJW10_S0PO8Wv4mcCwjr8Ob-gYGkNa9st9Pcj1mbgX8aKp6GfimGU-toWOfC1C_uXB3hLsWLhVK2vAfXxrEM9.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1080x1621,1280x1921,1440x2161,1706x2560&from=bu",
+                        "width": 1706
+                    }
+                }
+            },
+            {
+                "type": "link",
+                "link": {
+                    "url": "https://vk.com/market-211262018",
+                    "title": "All products"
+                }
+            }
+        ],
+        "date": 1747634940,
+        "from_id": -211262018,
+        "geo": {
+            "coordinates": "54.5101223919 36.259799941985",
+            "place": {
+                "discriminator": "place",
+                "created": 1695754843,
+                "id": 203601794,
+                "is_deleted": false,
+                "latitude": 54.510109,
+                "longitude": 36.259811,
+                "title": "Kaluga",
+                "total_checkins": 63495,
+                "updated": 1695754843,
+                "category": 49,
+                "category_object": {
+                    "id": 49,
+                    "title": "City",
+                    "icons": [
+                        {
+                            "url": "place.png",
+                            "width": 0,
+                            "height": 0
+                        }
+                    ]
+                }
+            },
+            "type": "place"
+        },
+        "id": 1882,
+        "likes": {
+            "can_like": 1,
+            "count": 7,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "reactions": {
+            "count": 7,
+            "items": [
+                {
+                    "id": 0,
+                    "count": 7
+                }
+            ]
+        },
+        "owner_id": -211262018,
+        "post_source": {
+            "platform": "iphone",
+            "type": "api"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 2,
+            "user_reposted": 0
+        },
+        "text": "Доставка вашего заказа из [club211262018|Калуга жарит] — быстро и выгодно!\n\nЗакажите на сумму от 900 рублей, и мы доставим ваш заказ бесплатно в пределах 5 км от нашего магазина! \n\n‼️Заказы меньшей стоимости обойдутся всего в 150 рублей.\n\nЖивете дальше? \nЗакажите на сумму от 1500 рублей, и доставка за пределы 5-километровой зоны будет бесплатной! \n‼️Заказы меньшей стоимости — 300 рублей.\n\n🌍 г.Калуга, ул.Московская, д.346 (Северный)\n+79809462192 КРУГЛОСУТОЧНО\n🌍 ул.Суворова, д.115\n+79641400014 (пн-чт с 9:00 до 22:00, пт-сб с 9:00 до 0:00, вс с 9:00 до 22:00)\n🌍 ул.Московская, д.231, строение 9 (район московской площади)\n+79951110014 (пн-вс с 9:00 до 21:00)\n🌍 ул.Тульская, д.66/57 (КРУГЛОСУТОЧНО)\n+79065085050",
+        "views": {
+            "count": 1875
+        }
+    }
+]

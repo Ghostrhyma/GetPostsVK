@@ -1,0 +1,1 @@
+worker: bot/python run.py

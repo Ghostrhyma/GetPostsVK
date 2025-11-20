@@ -1,0 +1,89 @@
+[
+    {
+        "domain": "kaluga_jarit",
+        "chat": [
+            {
+                "chat_id": -1003019717157,
+                "message_thread_id": 2
+            }
+        ]
+    },
+    {
+        "domain": "ghostrhyme",
+        "chat": [
+            {
+                "chat_id": 5080863947,
+                "message_thread_id": null
+            },
+            {
+                "chat_id": -4963534068,
+                "message_thread_id": null
+            },
+            {
+                "chat_id": -1003019717157,
+                "message_thread_id": null
+            },
+            {
+                "chat_id": -1002457200822,
+                "message_thread_id": null
+            },
+            {
+                "chat_id": -4914054111,
+                "message_thread_id": null
+            }
+        ]
+    },
+    {
+        "domain": "russian_humor",
+        "chat": [
+            {
+                "chat_id": -1003019717157,
+                "message_thread_id": 81
+            }
+        ]
+    },
+    {
+        "domain": "vidoskb",
+        "chat": [
+            {
+                "chat_id": -1003019717157,
+                "message_thread_id": 207
+            }
+        ]
+    },
+    {
+        "domain": "blicoofficial",
+        "chat": [
+            {
+                "chat_id": -1002457200822,
+                "message_thread_id": null
+            }
+        ]
+    },
+    {
+        "domain": "public210109455",
+        "chat": [
+            {
+                "chat_id": -1003019717157,
+                "message_thread_id": 207
+            },
+            {
+                "chat_id": -4914054111,
+                "message_thread_id": null
+            },
+            {
+                "chat_id": -1002457200822,
+                "message_thread_id": null
+            }
+        ]
+    },
+    {
+        "domain": "bedolagahouse",
+        "chat": [
+            {
+                "chat_id": -1002457200822,
+                "message_thread_id": null
+            }
+        ]
+    }
+]

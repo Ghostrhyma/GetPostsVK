@@ -1,0 +1,178 @@
+[
+    {
+        "inner_type": "wall_wallpost",
+        "donut": {
+            "is_donut": false
+        },
+        "is_pinned": 1,
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 0,
+            "groups_can_post": true
+        },
+        "marked_as_ads": 0,
+        "hash": "nRzNZqGj7tG337LJRQ",
+        "type": "post",
+        "push_subscription": {
+            "is_subscribed": false
+        },
+        "attachments": [
+            {
+                "type": "video",
+                "video": {
+                    "response_type": "full",
+                    "access_key": "ec85443b35542cc7f6",
+                    "can_like": 1,
+                    "can_repost": 1,
+                    "can_subscribe": 1,
+                    "can_add": 1,
+                    "comments": 0,
+                    "date": 1682766446,
+                    "description": "",
+                    "duration": 6,
+                    "image": [
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=5&type=39&tkn=ubXntW4arjtpimIDkxsAbMkOf_E&fn=vid_s",
+                            "width": 130,
+                            "height": 96,
+                            "with_padding": 1
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=5&type=39&tkn=ubXntW4arjtpimIDkxsAbMkOf_E&fn=vid_m",
+                            "width": 160,
+                            "height": 120,
+                            "with_padding": 1
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=5&type=39&tkn=ubXntW4arjtpimIDkxsAbMkOf_E&fn=vid_l",
+                            "width": 320,
+                            "height": 240,
+                            "with_padding": 1
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=5&type=39&tkn=ubXntW4arjtpimIDkxsAbMkOf_E&fn=vid_x",
+                            "width": 800,
+                            "height": 450,
+                            "with_padding": 1
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=5&type=39&tkn=ubXntW4arjtpimIDkxsAbMkOf_E&fn=vid_w",
+                            "width": 1280,
+                            "height": 720
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=5&type=39&tkn=ubXntW4arjtpimIDkxsAbMkOf_E&fn=vid_t",
+                            "width": 320,
+                            "height": 180
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=5&type=39&tkn=ubXntW4arjtpimIDkxsAbMkOf_E&fn=vid_u",
+                            "width": 720,
+                            "height": 405
+                        }
+                    ],
+                    "first_frame": [
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=0&type=39&tkn=IUM6zkSlnloPWCNoIXrLLL-2Y-0&fn=vid_f",
+                            "width": 720,
+                            "height": 405
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=0&type=39&tkn=IUM6zkSlnloPWCNoIXrLLL-2Y-0&fn=vid_md",
+                            "width": 480,
+                            "height": 270
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=0&type=39&tkn=IUM6zkSlnloPWCNoIXrLLL-2Y-0&fn=vid_d",
+                            "width": 240,
+                            "height": 135
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=0&type=39&tkn=IUM6zkSlnloPWCNoIXrLLL-2Y-0&fn=vid_sm",
+                            "width": 128,
+                            "height": 72
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=0&type=39&tkn=IUM6zkSlnloPWCNoIXrLLL-2Y-0&fn=vid_w",
+                            "width": 1280,
+                            "height": 720
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=0&type=39&tkn=IUM6zkSlnloPWCNoIXrLLL-2Y-0&fn=vid_h",
+                            "width": 960,
+                            "height": 540
+                        },
+                        {
+                            "url": "https://i.mycdn.me/getVideoPreview?id=4102953241316&idx=0&type=39&tkn=IUM6zkSlnloPWCNoIXrLLL-2Y-0&fn=vid_w",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    ],
+                    "width": 1280,
+                    "height": 720,
+                    "id": 456239063,
+                    "owner_id": -214869559,
+                    "title": "Video by пися попа каки)",
+                    "track_code": "video_0c4930d2TBBeaXX7bFKe9Q2vIJ3WUdsSJsz9EUNpo041iVc1VIF7PEVicfptO5HyAJZ_qeNn6SEf98siRx7CIlmJWRhmsE_7jKS7MKubWD85lg",
+                    "tracking_info": {
+                        "navigation": {
+                            "source_screen": "wall",
+                            "source_block": "no_block",
+                            "source_prev_screen": "no_source_prev_screen"
+                        },
+                        "recom_info": {
+                            "feature_sampling_uuid": ""
+                        },
+                        "search_info": {
+                            "search_query_id": "0",
+                            "search_iid": 0
+                        }
+                    },
+                    "type": "video",
+                    "views": 971,
+                    "local_views": 971,
+                    "can_dislike": 1,
+                    "should_stretch": false
+                }
+            }
+        ],
+        "date": 1682766452,
+        "from_id": -214869559,
+        "id": 628,
+        "likes": {
+            "can_like": 1,
+            "count": 10,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "reactions": {
+            "count": 10,
+            "items": [
+                {
+                    "id": 0,
+                    "count": 9
+                },
+                {
+                    "id": 1,
+                    "count": 1
+                }
+            ]
+        },
+        "owner_id": -214869559,
+        "post_source": {
+            "type": "vk"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 1,
+            "user_reposted": 0
+        },
+        "text": "",
+        "views": {
+            "count": 713
+        }
+    }
+]

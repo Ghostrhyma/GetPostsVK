@@ -1,0 +1,857 @@
+[
+    {
+        "inner_type": "wall_wallpost",
+        "donut": {
+            "is_donut": false
+        },
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 3,
+            "groups_can_post": true
+        },
+        "marked_as_ads": 0,
+        "hash": "KusaSR5PwEQCaJkKzA",
+        "type": "post",
+        "push_subscription": {
+            "is_subscribed": false
+        },
+        "carousel_offset": 0,
+        "donut_miniapp_url": "https://vk.com/app51528700#/?owner_id=-134671502&type=donut_badges&params=%257B%2522item_id%2522%253A%252289644%2522%257D&comment=1",
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1761142384,
+                    "id": 457244619,
+                    "owner_id": -134671502,
+                    "access_key": "6b3dd60fd9314f761a",
+                    "post_id": 89642,
+                    "sizes": [
+                        {
+                            "height": 72,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun1-57.userapi.com/s/v1/ig2/HRJ8_JG8O_jIFjy0v_Poh5RoVQBx_WPJp_4Bn_bPE3ggdK5et1Vw5ayX3cmrxX36JPBQ0k25pZau6sPP_SiXDAF0.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 160,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun1-57.userapi.com/s/v1/ig2/HRJ8_JG8O_jIFjy0v_Poh5RoVQBx_WPJp_4Bn_bPE3ggdK5et1Vw5ayX3cmrxX36JPBQ0k25pZau6sPP_SiXDAF0.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 640,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun1-57.userapi.com/s/v1/ig2/HRJ8_JG8O_jIFjy0v_Poh5RoVQBx_WPJp_4Bn_bPE3ggdK5et1Vw5ayX3cmrxX36JPBQ0k25pZau6sPP_SiXDAF0.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 1000,
+                            "type": "y",
+                            "width": 1000,
+                            "url": "https://sun1-57.userapi.com/s/v1/ig2/HRJ8_JG8O_jIFjy0v_Poh5RoVQBx_WPJp_4Bn_bPE3ggdK5et1Vw5ayX3cmrxX36JPBQ0k25pZau6sPP_SiXDAF0.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=1000x0"
+                        },
+                        {
+                            "height": 108,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun1-57.userapi.com/s/v1/ig2/HRJ8_JG8O_jIFjy0v_Poh5RoVQBx_WPJp_4Bn_bPE3ggdK5et1Vw5ayX3cmrxX36JPBQ0k25pZau6sPP_SiXDAF0.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 240,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun1-57.userapi.com/s/v1/ig2/HRJ8_JG8O_jIFjy0v_Poh5RoVQBx_WPJp_4Bn_bPE3ggdK5et1Vw5ayX3cmrxX36JPBQ0k25pZau6sPP_SiXDAF0.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 360,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun1-57.userapi.com/s/v1/ig2/HRJ8_JG8O_jIFjy0v_Poh5RoVQBx_WPJp_4Bn_bPE3ggdK5et1Vw5ayX3cmrxX36JPBQ0k25pZau6sPP_SiXDAF0.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 540,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun1-57.userapi.com/s/v1/ig2/HRJ8_JG8O_jIFjy0v_Poh5RoVQBx_WPJp_4Bn_bPE3ggdK5et1Vw5ayX3cmrxX36JPBQ0k25pZau6sPP_SiXDAF0.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 1000,
+                            "type": "base",
+                            "width": 1000,
+                            "url": "https://sun1-57.userapi.com/s/v1/ig2/HRJ8_JG8O_jIFjy0v_Poh5RoVQBx_WPJp_4Bn_bPE3ggdK5et1Vw5ayX3cmrxX36JPBQ0k25pZau6sPP_SiXDAF0.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100,
+                    "web_view_token": "76d44d1f6a997f94fb",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 1000,
+                        "type": "base",
+                        "url": "https://sun1-57.userapi.com/s/v1/ig2/HRJ8_JG8O_jIFjy0v_Poh5RoVQBx_WPJp_4Bn_bPE3ggdK5et1Vw5ayX3cmrxX36JPBQ0k25pZau6sPP_SiXDAF0.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1000x1000&from=bu",
+                        "width": 1000
+                    }
+                }
+            },
+            {
+                "type": "audio",
+                "audio": {
+                    "artist": "THRILL PILL feat. Toxi$",
+                    "id": 456246287,
+                    "owner_id": 2000259633,
+                    "title": "КЛУБНЯК",
+                    "duration": 152,
+                    "legal_notices_type": 2,
+                    "is_explicit": true,
+                    "is_focus_track": false,
+                    "track_code": "43074bf2MkmY8HeFW294LsOV4Ou7sn_mESd4iUvwueHHgRQWVEiA8x5DBeQ4BydZovD5hc_6KLxLdCsJ6iYyuXAw5fthSD8",
+                    "url": "https://cs9-4v4.vkuseraudio.net/s/v1/acmp/jIz1kFEqN6MQsp2DUvxMjlo111tQKlOcdpeS_eukjKbVIaS1akJbMcblgO1gWSNfKn8qswEXCxA4qsMcr0JH_5oZGNK1nKJevzkuXtKAR84uFaUzLLjg2T7yw9lzJdWCDxCUwlTzIAYdQvwJLbfqX7nLINBmWVYcpY0BOXvvnPWJQSyfksIT.mp3?siren=1",
+                    "stream_duration": 30,
+                    "date": 1761142385,
+                    "album_id": 2,
+                    "main_artists": [
+                        {
+                            "name": "THRILL PILL",
+                            "domain": "3998614458796007630",
+                            "id": "3998614458796007630"
+                        }
+                    ],
+                    "featured_artists": [
+                        {
+                            "name": "Toxi$",
+                            "domain": "8369406830164133963",
+                            "id": "8369406830164133963"
+                        }
+                    ],
+                    "short_videos_allowed": true,
+                    "stories_allowed": true,
+                    "release_audio_id": "-2001293871_123293871"
+                }
+            },
+            {
+                "type": "audio",
+                "audio": {
+                    "artist": "THRILL PILL",
+                    "id": 456246182,
+                    "owner_id": 2000229780,
+                    "title": "Как достать соседа",
+                    "duration": 140,
+                    "legal_notices_type": 2,
+                    "is_explicit": true,
+                    "is_focus_track": false,
+                    "track_code": "37817459ocMScoBfBVydITtvzRcjaRm8mSP1A7ZH3c_3C2ABKyITeZTB8j5mNMJWWgrUeVchTubDcKamKJNWl2m1keweIqw",
+                    "url": "https://cs9-12v4.vkuseraudio.net/s/v1/acmp/F6ojl22BwYaEgU4FMPtJu8pb6EO1TmyFgh5pd9P1pbTSB6ns4Ox4HyCi21LcTkH4FJytcx4AeEgSv6JIaoL6pbizyOHQJOFO2EotgMN1AmCIsVHktcMsR125V-57jyttVETwha9fPMGJbbNkRo_jLd9MABwMc6A3iz-fRui26YeN5U3b145H.mp3?siren=1",
+                    "stream_duration": 30,
+                    "date": 1761142385,
+                    "album_id": 2,
+                    "has_lyrics": true,
+                    "no_search": 1,
+                    "main_artists": [
+                        {
+                            "name": "THRILL PILL",
+                            "domain": "3998614458796007630",
+                            "id": "3998614458796007630"
+                        }
+                    ],
+                    "short_videos_allowed": true,
+                    "stories_allowed": true,
+                    "stories_cover_allowed": true,
+                    "release_audio_id": "-2001268024_37268024"
+                }
+            },
+            {
+                "type": "audio",
+                "audio": {
+                    "artist": "THRILL PILL",
+                    "id": 456245173,
+                    "owner_id": 2000501030,
+                    "title": "Аристократ Флоу",
+                    "duration": 138,
+                    "legal_notices_type": 2,
+                    "is_explicit": true,
+                    "is_focus_track": false,
+                    "track_code": "d71f03de3tCNiFj1BrGYJqtHiXcVVL7mOA34rFFxjRziU2IivCZsags7KpRl2cdRyiKQGWEc6bxiXqs7lrUGRG-Vks-JJtM",
+                    "url": "https://cs1-50v4.vkuseraudio.net/s/v1/acmp/CiRW-zhOEe__uXWGC-9xRN9pRoPOMCJeXBhaWtJCxqvs_aJhs_vItqrJBSskp3FJ2Pw_QJWhjSH_AIQkI01ltYgzLd0k--_q0ZWpoxv5RpFKsE6r31X11ojw9EHysmxYafs6Jh3akVLUh0Gg0O9nJIf5BNRr5te7g8rU9Fkl_KMCRjrr2DKN.mp3?siren=1",
+                    "stream_duration": 30,
+                    "date": 1761142385,
+                    "album_id": 2,
+                    "has_lyrics": true,
+                    "main_artists": [
+                        {
+                            "name": "THRILL PILL",
+                            "domain": "3998614458796007630",
+                            "id": "3998614458796007630"
+                        }
+                    ],
+                    "short_videos_allowed": true,
+                    "stories_allowed": true,
+                    "release_audio_id": "-2001380516_134380516"
+                }
+            },
+            {
+                "type": "audio",
+                "audio": {
+                    "artist": "THRILL PILL",
+                    "id": 456245680,
+                    "owner_id": 2000378812,
+                    "title": "Бентли",
+                    "duration": 122,
+                    "legal_notices_type": 2,
+                    "is_explicit": true,
+                    "is_focus_track": false,
+                    "track_code": "28cc45efR-esjSbGXUbGmHiKRW_EIyRoG34oCX1Aged8fLQPhab1XSo-VKc-LpnvGe9cAbBrczJBLXuE_50Kv_TGReKwpko",
+                    "url": "https://cs9-2v4.vkuseraudio.net/s/v1/acmp/ogT-WQvu5jQUyZoJvaVm0wMZEj71WIMXDUUStcPBxjiyFtwahIXgFW9XeOFKdH5kgb02di4rlAVBAhRPdW46G3rpSjHnrq1TICxRjwPfiGlwPP4hSlSmJ4nK83tdavXLXCNkCS2aGfgyOJtqo3ay5plPqC25GEndV6nMm1cWB7JPvqAnsB1B.mp3?siren=1",
+                    "stream_duration": 30,
+                    "date": 1761142385,
+                    "album_id": 2,
+                    "has_lyrics": true,
+                    "main_artists": [
+                        {
+                            "name": "THRILL PILL",
+                            "domain": "3998614458796007630",
+                            "id": "3998614458796007630"
+                        }
+                    ],
+                    "release_audio_id": "-2001648690_61648690"
+                }
+            },
+            {
+                "type": "audio",
+                "audio": {
+                    "artist": "THRILL PILL feat. Паша Техник",
+                    "id": 456245309,
+                    "owner_id": 2000042910,
+                    "title": "ВЯЗАНКА",
+                    "duration": 136,
+                    "legal_notices_type": 2,
+                    "is_explicit": true,
+                    "is_focus_track": false,
+                    "track_code": "ec45ae6fHw7aSHpMUGYKCezHHEBLCVyBORajHlV6HPP3ND6ehGOttFz7CC0zDlV-jaIFLj9BC9tjRfCxl5KXq3KNz3OxYxI",
+                    "url": "https://cs9-12v4.vkuseraudio.net/s/v1/acmp/dnhEqFTJjtSbky8uH_5FdfuC8BpD1Hd-XSo_lOodC5stMriimVfATOXcnbNQK-KErJUhCFWWue-UpAXZHNcdokaqhtPpfPwW5s1RW3F5tZ9mPuNbncQ996drvAzanV9IyNjnyHb4yyWgL5qIkhbDOjRL2EymhLREi77w1kOzBeT3kNX9e7z-.mp3?siren=1",
+                    "stream_duration": 30,
+                    "date": 1761142385,
+                    "album_id": 2,
+                    "main_artists": [
+                        {
+                            "name": "THRILL PILL",
+                            "domain": "3998614458796007630",
+                            "id": "3998614458796007630"
+                        }
+                    ],
+                    "featured_artists": [
+                        {
+                            "name": "Паша Техник",
+                            "domain": "8602429507706514729",
+                            "id": "8602429507706514729"
+                        }
+                    ],
+                    "short_videos_allowed": true,
+                    "stories_allowed": true,
+                    "release_audio_id": "-2001293867_123293867"
+                }
+            },
+            {
+                "type": "audio",
+                "audio": {
+                    "artist": "OBLADAET feat. THRILL PILL",
+                    "id": 456245496,
+                    "owner_id": 2000367474,
+                    "title": "NHL MONEY",
+                    "duration": 127,
+                    "legal_notices_type": 2,
+                    "is_explicit": true,
+                    "is_focus_track": false,
+                    "track_code": "5e8cca16zRgwO1w2cSvEicAM1NlR3chFEqWaWRvSFTVpDQX51V1_oraILlcSQ5v-oWnNtyWVnx9I9sma8A6ebam19BTgXcA",
+                    "url": "https://cs1-49v4.vkuseraudio.net/s/v1/acmp/aRyCKpdi38BFpIOe-pICXr-MIs4vWQDQVR5Pen_naVk4n_-QixMBJGe9rAJTEbvUBKenBFBbv7oPyT0it5uVLmwvZDNl1Z9qMjh6HlVcEJHi53wjkZBpb1JkB7mLOv77PzlbIV9XvUhLBedsmAZwxBQrDsZPEvaI1CDSEbeCZLnXo6mWJqyD.mp3?siren=1",
+                    "stream_duration": 30,
+                    "date": 1761142385,
+                    "album_id": 2,
+                    "main_artists": [
+                        {
+                            "name": "OBLADAET",
+                            "domain": "8653472696190005314",
+                            "id": "8653472696190005314"
+                        }
+                    ],
+                    "featured_artists": [
+                        {
+                            "name": "THRILL PILL",
+                            "domain": "3998614458796007630",
+                            "id": "3998614458796007630"
+                        }
+                    ],
+                    "short_videos_allowed": true,
+                    "stories_allowed": true,
+                    "release_audio_id": "-2001877475_85877475"
+                }
+            },
+            {
+                "type": "audio",
+                "audio": {
+                    "artist": "THRILL PILL",
+                    "id": 456246131,
+                    "owner_id": 2000255825,
+                    "title": "Аптека 2",
+                    "duration": 144,
+                    "legal_notices_type": 2,
+                    "is_explicit": true,
+                    "is_focus_track": false,
+                    "track_code": "6d904c07oe_48BAnR4LMJoKNCG-QSAMwRi8xRPUwBYlzbPMBseYTVX5DYkYk6pNR4-gRAeQAVGocfGKkNuWO0bjTAuyE5qw",
+                    "url": "https://cs1-49v4.vkuseraudio.net/s/v1/acmp/QG1_gHXwd6xsIPdatd8e33n5Bhg0BPeQLQ3ikDSr_1Z_NTUgiLS6LXN3c3WbQO6pWlnQE-Mvj1EsgI3jz19IEOdeqR_QYeT8GpnW0HpFoD7Rce__GjCiiDFz1crdLQX5FukrHcjjSOuv89yah3Ydg0A7VwF-CO-3YVWIPafiBVFsStXtvusZ.mp3?siren=1",
+                    "stream_duration": 30,
+                    "date": 1761142385,
+                    "album_id": 2,
+                    "has_lyrics": true,
+                    "main_artists": [
+                        {
+                            "name": "THRILL PILL",
+                            "domain": "3998614458796007630",
+                            "id": "3998614458796007630"
+                        }
+                    ],
+                    "short_videos_allowed": true,
+                    "stories_allowed": true,
+                    "stories_cover_allowed": true,
+                    "release_audio_id": "-2001080836_36080836"
+                }
+            },
+            {
+                "type": "audio",
+                "audio": {
+                    "artist": "THRILL PILL",
+                    "id": 456245552,
+                    "owner_id": 2000356874,
+                    "title": "Бабник [original]",
+                    "duration": 175,
+                    "is_explicit": false,
+                    "is_focus_track": false,
+                    "track_code": "0ed57ac9z-q2Dc5k5yfkDzlE-j8nyHsj-ilJgYmWIBiv-aA212R9UDC-vAWET7t4WCHjUVOALHmgeho6MEqrQCdCUdviZMI",
+                    "url": "https://cs9-14v4.vkuseraudio.net/s/v1/acmp/OGBa68_zNpE4eAD8Q61PiOjNqgHYp15ekNj8Gs6QyWoBsiwEubSWt6ZjT68wa3bMzLc_0QShnCKmOsilpZ4YcvTiDIG2_5YwPD2iKY-JsOuZj0jh1WzwWXvoXuKvP5s19HXHJjIyAC__fR-Od7fwJBZSoge_yTH7XCoT0PL27gch8-xkreW5.mp3?siren=1",
+                    "stream_duration": 30,
+                    "date": 1761142385,
+                    "album_id": 2,
+                    "genre_id": 18,
+                    "short_videos_allowed": true,
+                    "stories_allowed": true,
+                    "stories_cover_allowed": true,
+                    "release_audio_id": "-2001080830_36080830"
+                }
+            },
+            {
+                "type": "audio",
+                "audio": {
+                    "artist": "THRILL PILL",
+                    "id": 456246043,
+                    "owner_id": 2000503892,
+                    "title": "Фотографии",
+                    "duration": 214,
+                    "legal_notices_type": 2,
+                    "is_explicit": true,
+                    "is_focus_track": false,
+                    "track_code": "8ad93992hiGiMXolgnIzech39q29hf8iyndutR6QvYtriEESDtQ0mySCCEThGmwOqRLvw8nNqHiQJD1Qo1U208g3sP871Is",
+                    "url": "https://cs1-72v4.vkuseraudio.net/s/v1/acmp/8nuPKLEOJvKXzrsDLPGfo1NulEDvUkEQvjWUjioMtYPWCBBEqRkpamzYLsrwDiNOhOagUDpouETIHHJdE8O9KxZy0RNMNJpBzq1TFZHmu0X1N-EWl7uDX3XnMv3iBoG2Q4VKOcN2pDc_9kHXfMafk1KV--MlYL9NbMl7Ir3BQsche2ezskDN.mp3?siren=1",
+                    "stream_duration": 30,
+                    "date": 1761142385,
+                    "album_id": 2,
+                    "has_lyrics": true,
+                    "main_artists": [
+                        {
+                            "name": "THRILL PILL",
+                            "domain": "3998614458796007630",
+                            "id": "3998614458796007630"
+                        }
+                    ],
+                    "short_videos_allowed": true,
+                    "stories_allowed": true,
+                    "stories_cover_allowed": true,
+                    "release_audio_id": "-2001268028_37268028"
+                }
+            },
+            {
+                "type": "audio",
+                "audio": {
+                    "artist": "Thrill Pill",
+                    "id": 456246428,
+                    "owner_id": 2000241967,
+                    "title": "Бабник",
+                    "duration": 133,
+                    "is_explicit": false,
+                    "is_focus_track": false,
+                    "track_code": "af51cbfa5g96D4nJ0BjOQ8p3T4Q6-TQSzUgcjPK5YCtRqnv24lFUtfy8-6izcJE0qxJW6k6xY0iXG08STWzrc_UaihvXUes",
+                    "url": "https://cs9-6v4.vkuseraudio.net/s/v1/acmp/sof5QYF63FcXnaMvpyXdG7__wzsm8e4AFRIPc25AP1ndpzU44TKy8GbbE3LfETzUiCWg5zpxucnD7GPA85JtAWjaXXsAP3YfqEq3dFhiQ3hOUBFmPSNwn1mzpKnmwnEC6s-RrA1PREzHGlnnsWxdh4fszAckGAJpqEZjCyzMJZuTQ5rc-aDd.mp3?siren=1",
+                    "stream_duration": 30,
+                    "date": 1761142385,
+                    "album_id": 2,
+                    "genre_id": 1001,
+                    "short_videos_allowed": true,
+                    "stories_allowed": true,
+                    "stories_cover_allowed": true,
+                    "release_audio_id": "-2001080830_36080830"
+                }
+            }
+        ],
+        "date": 1761149576,
+        "from_id": -134671502,
+        "id": 89644,
+        "likes": {
+            "can_like": 1,
+            "count": 9,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "reactions": {
+            "count": 9,
+            "items": [
+                {
+                    "id": 0,
+                    "count": 9
+                }
+            ]
+        },
+        "owner_id": -134671502,
+        "post_source": {
+            "type": "api"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 1,
+            "user_reposted": 0
+        },
+        "text": "Сегодня свой 25-ый День рождения празднует THRILL PILL, поздравляем!",
+        "views": {
+            "count": 545
+        }
+    },
+    {
+        "inner_type": "wall_wallpost",
+        "donut": {
+            "is_donut": false
+        },
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 1,
+            "groups_can_post": true
+        },
+        "marked_as_ads": 0,
+        "hash": "tH--SYwwvNo-74aY3A",
+        "type": "post",
+        "push_subscription": {
+            "is_subscribed": false
+        },
+        "carousel_offset": 0,
+        "donut_miniapp_url": "https://vk.com/app51528700#/?owner_id=-134671502&type=donut_badges&params=%257B%2522item_id%2522%253A%252289658%2522%257D&comment=1",
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1761496710,
+                    "id": 457244621,
+                    "owner_id": -134671502,
+                    "access_key": "f03aee2dc7706ea8db",
+                    "post_id": 89658,
+                    "sizes": [
+                        {
+                            "height": 72,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 160,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 640,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 1080,
+                            "type": "y",
+                            "width": 1080,
+                            "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=1080x0"
+                        },
+                        {
+                            "height": 1280,
+                            "type": "z",
+                            "width": 1280,
+                            "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=1280x0"
+                        },
+                        {
+                            "height": 2560,
+                            "type": "w",
+                            "width": 2560,
+                            "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=2560x0"
+                        },
+                        {
+                            "height": 108,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 240,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 360,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 540,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 2560,
+                            "type": "base",
+                            "width": 2560,
+                            "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100,
+                    "web_view_token": "c152f38d5f89d5bde6",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 2560,
+                        "type": "base",
+                        "url": "https://sun9-80.userapi.com/s/v1/ig2/xK3EKnC4gzebCzqinQXcbjgjp_Mfn6fJhjytHtrz3K7Ym03Okfs4JHgVLRACOecJlV5l2Rgt5lA3JMCaaJsJS5RJ.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu",
+                        "width": 2560
+                    }
+                }
+            },
+            {
+                "type": "link",
+                "link": {
+                    "url": "https://m.vk.com/audio?act=audio_playlist-2000434735_25434735&access_hash=4274e9b9fa227b9faf&api_view=c674419bf7b3bd7c6ad3874419b592",
+                    "description": "Playlist",
+                    "photo": {
+                        "album_id": 235125454,
+                        "date": 1490173981,
+                        "id": 456239018,
+                        "owner_id": -127435785,
+                        "sizes": [
+                            {
+                                "height": 72,
+                                "type": "s",
+                                "width": 72,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=72x0"
+                            },
+                            {
+                                "height": 160,
+                                "type": "m",
+                                "width": 160,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=160x0"
+                            },
+                            {
+                                "height": 512,
+                                "type": "x",
+                                "width": 512,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=512x0"
+                            },
+                            {
+                                "height": 512,
+                                "type": "y",
+                                "width": 512,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=512x0"
+                            },
+                            {
+                                "height": 108,
+                                "type": "o",
+                                "width": 108,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=108x0"
+                            },
+                            {
+                                "height": 240,
+                                "type": "p",
+                                "width": 240,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=240x0"
+                            },
+                            {
+                                "height": 360,
+                                "type": "q",
+                                "width": 360,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=360x0"
+                            },
+                            {
+                                "height": 512,
+                                "type": "base",
+                                "width": 512,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu"
+                            }
+                        ],
+                        "text": "",
+                        "user_id": 100,
+                        "web_view_token": "1ba7d24a7a48abfca4",
+                        "has_tags": false,
+                        "orig_photo": {
+                            "height": 512,
+                            "type": "base",
+                            "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu",
+                            "width": 512
+                        }
+                    },
+                    "title": "Нытьё депрессивного подростка",
+                    "ref": "audio_playlist"
+                }
+            }
+        ],
+        "date": 1761496710,
+        "edited": 1761499590,
+        "from_id": -134671502,
+        "id": 89658,
+        "likes": {
+            "can_like": 1,
+            "count": 2,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "reactions": {
+            "count": 2,
+            "items": [
+                {
+                    "id": 0,
+                    "count": 2
+                }
+            ]
+        },
+        "owner_id": -134671502,
+        "post_source": {
+            "type": "api"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 1,
+            "user_reposted": 0
+        },
+        "text": "[club189449258|SLVTN] - «Нытьё депрессивного подростка»\n\nКонцептуальный альбом про проблемы подростков, от молодого артиста из Новосибирской области, написанный от лица парня, угнетаемого всеми вокруг, сюжет насыщен различными перипетиями и искренними эмоциями, и эта история была основана на реальных событиях.\n\nВ плане звука альбом звучит интересно, биты очень интересные тоже, плюс много разных жанров на релизе представлено: альтернатива, пост панк, рок, хайперпоп, драм-н-бейс, мемфис, есть прикольные фишки по звучанию и так далее. \n \nКак по мне - это серьёзная заявка на будущее, тем более, что потом будет продолжение",
+        "views": {
+            "count": 235
+        }
+    },
+    {
+        "inner_type": "wall_wallpost",
+        "donut": {
+            "is_donut": false
+        },
+        "comments": {
+            "can_post": 1,
+            "can_view": 1,
+            "count": 1,
+            "groups_can_post": true
+        },
+        "marked_as_ads": 0,
+        "hash": "pbWFFHSEofhcxyczfw",
+        "type": "post",
+        "push_subscription": {
+            "is_subscribed": false
+        },
+        "carousel_offset": 0,
+        "donut_miniapp_url": "https://vk.com/app51528700#/?owner_id=-134671502&type=donut_badges&params=%257B%2522item_id%2522%253A%252289671%2522%257D&comment=1",
+        "attachments": [
+            {
+                "type": "photo",
+                "photo": {
+                    "album_id": -7,
+                    "date": 1761635469,
+                    "id": 457244622,
+                    "owner_id": -134671502,
+                    "access_key": "2dae259c25ebefc655",
+                    "post_id": 89671,
+                    "sizes": [
+                        {
+                            "height": 72,
+                            "type": "s",
+                            "width": 72,
+                            "url": "https://sun1-83.userapi.com/s/v1/ig2/2TknaioN01iKA1Ne9vNVuMbxM5iyJzuxAt6Z03zSS3eTlUaeF67usHLHPiajnqBpkPpjIJtF65lT5nnR5Etp8BUG.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,848x848&from=bu&cs=72x0"
+                        },
+                        {
+                            "height": 160,
+                            "type": "m",
+                            "width": 160,
+                            "url": "https://sun1-83.userapi.com/s/v1/ig2/2TknaioN01iKA1Ne9vNVuMbxM5iyJzuxAt6Z03zSS3eTlUaeF67usHLHPiajnqBpkPpjIJtF65lT5nnR5Etp8BUG.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,848x848&from=bu&cs=160x0"
+                        },
+                        {
+                            "height": 640,
+                            "type": "x",
+                            "width": 640,
+                            "url": "https://sun1-83.userapi.com/s/v1/ig2/2TknaioN01iKA1Ne9vNVuMbxM5iyJzuxAt6Z03zSS3eTlUaeF67usHLHPiajnqBpkPpjIJtF65lT5nnR5Etp8BUG.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,848x848&from=bu&cs=640x0"
+                        },
+                        {
+                            "height": 848,
+                            "type": "y",
+                            "width": 848,
+                            "url": "https://sun1-83.userapi.com/s/v1/ig2/2TknaioN01iKA1Ne9vNVuMbxM5iyJzuxAt6Z03zSS3eTlUaeF67usHLHPiajnqBpkPpjIJtF65lT5nnR5Etp8BUG.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,848x848&from=bu&cs=848x0"
+                        },
+                        {
+                            "height": 108,
+                            "type": "o",
+                            "width": 108,
+                            "url": "https://sun1-83.userapi.com/s/v1/ig2/2TknaioN01iKA1Ne9vNVuMbxM5iyJzuxAt6Z03zSS3eTlUaeF67usHLHPiajnqBpkPpjIJtF65lT5nnR5Etp8BUG.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,848x848&from=bu&cs=108x0"
+                        },
+                        {
+                            "height": 240,
+                            "type": "p",
+                            "width": 240,
+                            "url": "https://sun1-83.userapi.com/s/v1/ig2/2TknaioN01iKA1Ne9vNVuMbxM5iyJzuxAt6Z03zSS3eTlUaeF67usHLHPiajnqBpkPpjIJtF65lT5nnR5Etp8BUG.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,848x848&from=bu&cs=240x0"
+                        },
+                        {
+                            "height": 360,
+                            "type": "q",
+                            "width": 360,
+                            "url": "https://sun1-83.userapi.com/s/v1/ig2/2TknaioN01iKA1Ne9vNVuMbxM5iyJzuxAt6Z03zSS3eTlUaeF67usHLHPiajnqBpkPpjIJtF65lT5nnR5Etp8BUG.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,848x848&from=bu&cs=360x0"
+                        },
+                        {
+                            "height": 540,
+                            "type": "r",
+                            "width": 540,
+                            "url": "https://sun1-83.userapi.com/s/v1/ig2/2TknaioN01iKA1Ne9vNVuMbxM5iyJzuxAt6Z03zSS3eTlUaeF67usHLHPiajnqBpkPpjIJtF65lT5nnR5Etp8BUG.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,848x848&from=bu&cs=540x0"
+                        },
+                        {
+                            "height": 848,
+                            "type": "base",
+                            "width": 848,
+                            "url": "https://sun1-83.userapi.com/s/v1/ig2/2TknaioN01iKA1Ne9vNVuMbxM5iyJzuxAt6Z03zSS3eTlUaeF67usHLHPiajnqBpkPpjIJtF65lT5nnR5Etp8BUG.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,848x848&from=bu"
+                        }
+                    ],
+                    "text": "",
+                    "user_id": 100,
+                    "web_view_token": "660a22507734d2f9c7",
+                    "has_tags": false,
+                    "orig_photo": {
+                        "height": 848,
+                        "type": "base",
+                        "url": "https://sun1-83.userapi.com/s/v1/ig2/2TknaioN01iKA1Ne9vNVuMbxM5iyJzuxAt6Z03zSS3eTlUaeF67usHLHPiajnqBpkPpjIJtF65lT5nnR5Etp8BUG.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,848x848&from=bu",
+                        "width": 848
+                    }
+                }
+            },
+            {
+                "type": "link",
+                "link": {
+                    "url": "https://m.vk.com/audio?act=audio_playlist-2000802337_21802337&access_hash=87f943984b89d3cf06&api_view=b0d241641065543b0ad38d241645e6",
+                    "description": "Playlist",
+                    "photo": {
+                        "album_id": 235125454,
+                        "date": 1490173981,
+                        "id": 456239018,
+                        "owner_id": -127435785,
+                        "sizes": [
+                            {
+                                "height": 72,
+                                "type": "s",
+                                "width": 72,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=72x0"
+                            },
+                            {
+                                "height": 160,
+                                "type": "m",
+                                "width": 160,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=160x0"
+                            },
+                            {
+                                "height": 512,
+                                "type": "x",
+                                "width": 512,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=512x0"
+                            },
+                            {
+                                "height": 512,
+                                "type": "y",
+                                "width": 512,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=512x0"
+                            },
+                            {
+                                "height": 108,
+                                "type": "o",
+                                "width": 108,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=108x0"
+                            },
+                            {
+                                "height": 240,
+                                "type": "p",
+                                "width": 240,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=240x0"
+                            },
+                            {
+                                "height": 360,
+                                "type": "q",
+                                "width": 360,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu&cs=360x0"
+                            },
+                            {
+                                "height": 512,
+                                "type": "base",
+                                "width": 512,
+                                "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu"
+                            }
+                        ],
+                        "text": "",
+                        "user_id": 100,
+                        "web_view_token": "c7379919d20212f679",
+                        "has_tags": false,
+                        "orig_photo": {
+                            "height": 512,
+                            "type": "base",
+                            "url": "https://sun1-85.userapi.com/s/v1/ig1/AmYDv1_QqpZAo-x84ctwxtbp9Ujxrzi3NZojBpBDfAGfZeSkSMLiXP_msooUXCnb9dpwdIyI.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,512x512&from=bu",
+                            "width": 512
+                        }
+                    },
+                    "title": "Опиаты Круг",
+                    "ref": "audio_playlist"
+                }
+            }
+        ],
+        "date": 1761635469,
+        "from_id": -134671502,
+        "id": 89671,
+        "likes": {
+            "can_like": 1,
+            "count": 9,
+            "user_likes": 0,
+            "can_publish": 1,
+            "repost_disabled": false
+        },
+        "reaction_set_id": "reactions",
+        "reactions": {
+            "count": 9,
+            "items": [
+                {
+                    "id": 0,
+                    "count": 9
+                }
+            ]
+        },
+        "owner_id": -134671502,
+        "post_source": {
+            "type": "api"
+        },
+        "post_type": "post",
+        "reposts": {
+            "count": 0,
+            "user_reposted": 0
+        },
+        "text": "Ровно 6 лет назад вышел альбом «Опиаты круг» от Платины\n\nЛегендарный альбом",
+        "views": {
+            "count": 895
+        }
+    }
+]
