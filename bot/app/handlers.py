@@ -41,14 +41,24 @@ answ = "Выберите группу ВК, которую хотите откр
 @router.message(Command("delete_domain"))
 async def delete_domain(message: Message):
     data = await req.get_domains_for_chat(message.chat.id, message.message_thread_id)
-    if not isinstance(data, bool):
-        await message.answer(answ, 
-                             reply_markup=await kb.get_domains_keyboard(data))
-        logging.info("Ожидаем домен от пользователя для удаления")
-    elif data == []:
+
+    # Чат не найден или ошибка
+    if data is False:
         await message.answer("К вашему чату не привязано ни одной группы ВК")
-    else:
+        return
+
+    # Домены есть, но список пустой
+    if isinstance(data, list) and len(data) == 0:
         await message.answer("К вашему чату не привязано ни одной группы ВК")
+        return
+
+    # Список доменов НЕ пустой – показываем клавиатуру
+    await message.answer(
+        "Выберите группу ВК, которую хотите открепить от чата",
+        reply_markup=await kb.get_domains_keyboard(data)
+    )
+    logging.info("Ожидаем домен от пользователя для удаления")
+
 
 
 @router.callback_query(F.data.startswith('selectedDomain_'))
