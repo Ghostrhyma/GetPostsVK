@@ -1,0 +1,39 @@
+services:
+  bot:
+    build: .
+    image: getpostsvk:latest
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      # Для внешней БД (Neon, Supabase и т. п.) удалите эту строку и сервис db ниже,
+      # а DATABASE_URL (и при необходимости DB_SSL) задайте в .env
+      DATABASE_URL: postgresql://bot:${POSTGRES_PASSWORD:?задайте POSTGRES_PASSWORD в .env}@db:5432/bot
+    depends_on:
+      db:
+        condition: service_healthy
+    # Бот ничего не пишет на диск, кроме heartbeat-файла в /tmp
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+
+  db:
+    image: postgres:17
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: bot
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:?задайте POSTGRES_PASSWORD в .env}
+      POSTGRES_DB: bot
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U bot -d bot"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  pgdata:
